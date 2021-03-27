@@ -5,15 +5,11 @@ body {
 }
 
 input {
-    color: black;    
+    color: rgb(127, 219, 219);    
 }
 
 label {
-    color: black;
-}
-
-#new-password {
-    color: black;
+    color: rgb(127, 219, 219);
 }
 
 p {
@@ -21,16 +17,16 @@ p {
     margin-right: auto;
     width: 14em;
     word-wrap: break-word;
-    color: black;
+    color: rgb(127, 219, 219);
 }
 
 fieldset {
-    border: 5px solid rgb(0, 0, 0);
+    border: 5px solid rgb(158, 117, 198);
     background: #ddd;
     border-radius: 5px;
     padding-left: 30%;
     padding-right: 30%;
-    background-color: white;
+    background-color: rgb(158, 117, 198);
     opacity: 0.75;
 }
 
